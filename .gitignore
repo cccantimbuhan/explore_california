@@ -16,3 +16,6 @@ assets/videos/
 
 # Specific Files that NEEDS to be Tracked
 !assets/videos/tour_*.mp4
+
+# Ignore just Tracked Files
+tempfile2.txt
