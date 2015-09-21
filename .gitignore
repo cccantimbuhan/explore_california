@@ -1,0 +1,18 @@
+# Comment
+tempfile.txt
+.DS_Store
+
+#Ignore Compressed/Zipped Files
+*.zip
+*.gz
+
+# Log Files
+log/*.log
+log/*.log.[0-9]
+
+# Ignored Other Files
+assets/photoshop/
+assets/videos/
+
+# Specific Files that NEEDS to be Tracked
+!assets/videos/tour_*.mp4
